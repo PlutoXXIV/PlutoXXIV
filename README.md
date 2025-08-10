@@ -1,8 +1,8 @@
 # ABOUT ME👋
 
-**PlutoXXIV/PlutoXXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PlutoXXIV/PlutoXXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears MY your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get ME started about me
 
 - 🔭 I’m currently working on - Leveling up my skills everywhere (taking part in compes and fests)
 - 🌱 I’m currently learning ... ROS and gazebo
